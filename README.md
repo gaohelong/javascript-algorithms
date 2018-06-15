@@ -235,3 +235,6 @@ Below is the list of some of the most used Big O notations and their performance
 | **Shell sort**        | n log(n)  | depends on gap sequence   | n (log(n))^2  | 1         | No        |           |
 | **Counting sort**     | n + r     | n + r     | n + r         | n + r     | Yes       | r - biggest number in array |
 | **Radix sort**        | n * k     | n * k     | n * k         | n + k    | Yes        | k - length of longest key |
+
+
+[简体中文](https://github.com/gaohelong/javascript-algorithms/blob/master/README.zh-CN.md)
